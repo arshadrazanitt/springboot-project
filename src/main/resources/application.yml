@@ -11,3 +11,7 @@ spring:
     username: root
     password: dvehr2N5LVJkSU8doGqW
     driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: containers-us-west-134.railway.app
+    port: 7928
+    password: G5ffGrFuxU85NGaNVAKj
