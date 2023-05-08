@@ -1,0 +1,8 @@
+important command-->
+
+//redis start command
+
+sudo service redis-server start
+redis-cli 
+127.0.0.1:6379> ping
+redis-cli keys '*'
